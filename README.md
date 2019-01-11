@@ -7,4 +7,4 @@ We have three experiments: # Machine-Learning---avito
 1. use all features to train models. 
 2.1 use SVD to reduce dimension randomly. 
 2.2 keep 26 features we thought were important, then use SVD on the rest features.
-3. foucs on Light GBM, reorder features according feature importance.
+3. focus on Light GBM, reorder features according feature importance.
